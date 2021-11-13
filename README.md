@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huntery7842
+- 👋 Hi, I’m @huntery7842(hunter_y on steam)
 - 👀 I’m a Resident Evil Fan
 - 🌱 I’m currently working on creating mods for Resident Evil Revelations.
    - Published mod: [Ghost Ship Nightmare beta 0.23](https://residentevilmodding.boards.net/thread/15581/mod-release-ghost-ship-nightmare)
